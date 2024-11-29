@@ -1,5 +1,4 @@
 
-#meow
 print('Bot or Human? Lets figure it out!')
 #ask user for the activity of bot or human
 # to know when they're active
